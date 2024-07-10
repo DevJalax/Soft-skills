@@ -33,3 +33,10 @@ Event management
 Consultancy - Deloitte , PwC , EY , KPMG , BCG , Mckinsey , Bain , Mercer LLC [excellent way to learn biz][biz]
 IT Consultancy - Accenture , TCS , Capgemini , Cognizant , Infosys , IBM , SAP , Oracle , Wipro , HCL , Tech Mahindra , Mphasis , Hexaware
 
+Biz analyst -> Consultant -> Senior consultant -> Manager -> Principal -> Director
+
+Investment banking :
+
+Analyst -> Associate -> Vice President -> Director -> MD
+
+Goldman Sachs , Morgan Stanley , Bank of America Merrill Lynch , Citigroup , Deutsche Bank , Credit Suisse , Barclays , UBS , BNP Paribas , Société Générale 
